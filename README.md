@@ -25,11 +25,11 @@ fury_redw_exp_multip
 fury_redw_gold_multip
 
 ###LICENSE####
-fury_ciggaretpack © 2024 by Fury is licensed under CC BY-NC-SA 4.0 
+fury_ciggaretpack © 2024 by Fury is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
+
 You will need an additional script to spawn the prop or else you can use a map editor 
 Contact by discord: https://discord.gg/DXe7vZwN2A
 
 ![base ciggaretes](https://github.com/user-attachments/assets/d675b603-73d9-41d7-9704-9d011dfe3548)
 ![Schermafbeelding 2024-10-11 215110](https://github.com/user-attachments/assets/c1e419c0-3b70-4cf4-879a-aaa58efde6fc)
-![Schermafbeelding 2024-10-11 215054](https://github.com/user-attachments/assets/d10bfc51-8432-4988-9e04-0766acd45513)
 ![Schermafbeelding 2024-10-11 215020](https://github.com/user-attachments/assets/3cdbd410-16a9-4169-8b1c-2c11ce585b98)
